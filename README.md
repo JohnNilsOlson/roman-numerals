@@ -8,6 +8,24 @@
 
 _{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
 
+## Specs
+
+The program will not return an output for anything other than a numeric input of 1-3,999.
+  * Input: 0
+  * Output: Please input a number between 1-3,999
+
+The program will return any of the base roman numerals.
+If user puts in a 1 it will return an I.
+If user puts in a 5 it will return a V.
+If user puts in a 10 it will return a X.
+If user puts in a 50 it will retun a L.
+If user puts in a 100 it will return a C.
+If user puts in a 500 it will return a D.
+If user puts in a 1000 it will return a M.
+
+
+
+
 ## Setup/Installation Requirements
 
 * _This is a great place_
