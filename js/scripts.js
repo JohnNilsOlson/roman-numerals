@@ -1,3 +1,10 @@
+
+
+
+
 $(document).ready(function() {
-event.preventDefault();
-})
+  $("form#numInput").submit(function(event) {
+    event.preventDefault();
+
+  });
+});
