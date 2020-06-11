@@ -10,9 +10,9 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 
 ## Specs
 
-The program will not return an output for anything other than a numeric input of 1-3,999.
+<!-- The program will not return an output for anything other than a numeric input of 1-3,999.
   * Input: 0
-  * Output: Please input a number between 1-3,999
+  * Output: Please input a number between 1-3,999 -->
 
 The program will return any of the base roman numerals.
 If user puts in a 1 it will return an I.
